@@ -13,7 +13,6 @@ A blog post about [Daily Contact](https://medium.com/@1227/how-from-technology-w
 LinkedIn Profile [Jackson Moreno](https://www.linkedin.com/in/jaarmore/).
 
 ## Installation
----
 
 ```
 First clone the project
@@ -33,7 +32,6 @@ cat setup_mysql_dev.sql | mysql -uroot -hlocalhost -p
 ```
 
 ## Usage
----
 
 Run the project
 ```
@@ -41,24 +39,22 @@ python3 run.py
 ```
 
 ## Contributing
----
 
-[Aiko Mi](https://github.com/elisa2105/)
-[Jackson Moreno](https://github.com/jaarmore/)
-[Pablo Andres Urbano](https://github.com/paurbano/)
+[Aiko Mi](https://github.com/elisa2105/).
+
+[Jackson Moreno](https://github.com/jaarmore/).
+
+[Pablo Andres Urbano](https://github.com/paurbano/).
 
 
 ## Release projects
----
 
 
 ## Licensing
----
 
-MIT LICENSE
+[MIT LICENSE](LICENSE)
 
 ### Authors
----
 
 [Aiko Mi](https://twitter.com/aikomi88).
 
