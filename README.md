@@ -60,6 +60,8 @@ MIT LICENSE
 ### Authors
 ---
 
-[Aiko Mi](https://twitter.com/aikomi88)
-[Jackson Moreno](https://twitter.com/jaarmore)
-[Pablo Andres Urbano](https://twitter.com/PabloAndresUrb3)
+[Aiko Mi](https://twitter.com/aikomi88).
+
+[Jackson Moreno](https://twitter.com/jaarmore).
+
+[Pablo Andres Urbano](https://twitter.com/PabloAndresUrb3).
